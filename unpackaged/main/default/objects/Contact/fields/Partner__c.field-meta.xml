@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Partner__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Are they a partner?</description>
+    <externalId>false</externalId>
+    <inlineHelpText>check box if yes</inlineHelpText>
+    <label>Partner?</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>
